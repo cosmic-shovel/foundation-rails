@@ -1,5 +1,5 @@
 PATH
-  remote: .
+  remote: ..
   specs:
     foundation-rails (6.6.2.0)
       railties (~> 6.1)
@@ -199,7 +199,7 @@ DEPENDENCIES
   capybara
   foundation-rails!
   listen
-  rails
+  rails (~> 6.1)
   railties
   rake
   rspec
